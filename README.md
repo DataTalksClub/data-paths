@@ -1,5 +1,3 @@
-# data-paths
-Learning paths for data roles
 # Learning journeys 
 
 Learning paths for different data roles:
