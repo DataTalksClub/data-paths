@@ -1,3 +1,5 @@
+### Roadmap
+[data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 
 ### Skills
 Just some of the skills ML Engineering professionals use.
