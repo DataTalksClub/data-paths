@@ -53,3 +53,9 @@ One may not need to know all of them, but one technology from each area would ma
 * Monitoring Drift, Performance
 * Testing: Unit, Integration, Load, ML Robustness
 
+
+## References
+
+[ML Engineering skills by Chip Huyen](https://twitter.com/chipro/status/1315283623910805504)
+
+[ML in Production by Made with ML, Goku Mohandas](https://twitter.com/GokuMohandas/status/1315990996849627136)
