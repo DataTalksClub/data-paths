@@ -4,12 +4,12 @@ Learning paths for data roles
 
 Learning paths for different data roles:
 
-* [Data Analyst](data_analyst.md)
-* [Data Engineer](data_engineer.md)
-* [Data Scientist](data_scientist.md)
-* [Machine Learning Engineer](ml_engineer.md)
-* [MLOps](mlops.md)
-* [AI Product Manager](product_manager.md)
+* [Data Analyst](career_paths/data_analyst.md)
+* [Data Engineer](career_paths/data_engineer.md)
+* [Data Scientist](career_paths/data_scientist.md)
+* [Machine Learning Engineer](career_paths/ml_engineer.md)
+* [MLOps](career_paths/mlops.md)
+* [AI Product Manager](career_paths/product_manager.md)
 
 
 ## License
