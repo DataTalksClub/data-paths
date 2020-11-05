@@ -1,4 +1,7 @@
 
+### Roadmap
+[data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+
 ### Skills
 Just some of the skills Data Engineering professionals use.
 One may not need to know all of them, but one technology from each area would make you well-rounded.
@@ -7,9 +10,6 @@ One may not need to know all of them, but one technology from each area would ma
 * Python
 * Java
 * Scala
-
-### REST API
-* Flask
 
 #### Databases / Data Stores
 * SQL / Relational
