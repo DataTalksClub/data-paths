@@ -11,7 +11,7 @@ One may not need to know all of them, but one technology from each area would ma
 * Scala
 
 ### REST API
-* Flask
+* [Flask](../resources/python/flask.md)
 
 #### Databases / Data Stores
 * SQL / Relational
