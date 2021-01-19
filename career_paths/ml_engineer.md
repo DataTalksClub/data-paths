@@ -7,13 +7,12 @@
 #### ML System Design
 * [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7) by Semi Koen
 * [Uber's ML Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) - Michelangelo
-* [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design) by [Chip Huyen](https://huyenchip.com/)
 * [Architecture of a real-world Machine Learning system](https://medium.com/louis-dorard/architecture-of-a-real-world-machine-learning-system-795254bec646) by [Louis Dorard](https://www.louisdorard.com/machine-learning-canvas)
 * [How to deploy Machine Learning models](https://medium.com/@christopher.samiullah/how-to-deploy-machine-learning-models-4b8b98120ffe) by [Christopher Samiullah](https://christophergs.com/)
 
 #### Miscellaneous
 * [ML in Production](https://mlinproduction.com/) by Luigi Patruno
-
+* [Chip Huyen's Blog on ML](https://huyenchip.com/blog/)
 
 ### Technology Stack
 Just some of the skills ML Engineering professionals use.
