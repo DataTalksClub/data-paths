@@ -3,7 +3,7 @@
 * [Awesome MLOps - A curated list](https://github.com/visenger/awesome-mlops) by Larysa Visengeriyeva
 * [ml-ops](https://ml-ops.org/) by Larysa Visengeriyeva
 * [ML in Production](https://mlinproduction.com/) by Luigi Patruno
-* [Machine Learning Ops with GitHub](https://mlops.githubapp.com/) [Hamel Husain](https://hamel.dev/)
+* [Machine Learning Ops with GitHub](https://mlops.githubapp.com/) by [Hamel Husain](https://hamel.dev/)
 * [How to deploy Machine Learning models](https://medium.com/@christopher.samiullah/how-to-deploy-machine-learning-models-4b8b98120ffe) by [Christopher Samiullah](https://christophergs.com/)
 
 
