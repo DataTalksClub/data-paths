@@ -23,9 +23,17 @@ One may not need to know all of them, but one technology from each area would ma
 * GCP
 * Azure
 
-#### Versioning
+#### Data Versioning
 * DVC: Data Version Control
-* ECR / Docker: Model Repo
+
+#### Model Versioning
+
+#### Code Versioning / Version Control
+* GitHub, GitLab
+
+#### CI/CD
+* GitHub Actions
+* Circle CI, Travis
 
 #### Monitoring
 * CloudWatch
