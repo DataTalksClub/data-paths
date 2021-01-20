@@ -1,7 +1,20 @@
-### Roadmap
+## Roadmap
 [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 
-### Skills
+
+### Resources
+
+#### ML System Design
+* [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7) by Semi Koen
+* [Uber's ML Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) - Michelangelo
+* [Architecture of a real-world Machine Learning system](https://medium.com/louis-dorard/architecture-of-a-real-world-machine-learning-system-795254bec646) by [Louis Dorard](https://www.louisdorard.com/machine-learning-canvas)
+* [How to deploy Machine Learning models](https://medium.com/@christopher.samiullah/how-to-deploy-machine-learning-models-4b8b98120ffe) by [Christopher Samiullah](https://christophergs.com/)
+
+#### Miscellaneous
+* [ML in Production](https://mlinproduction.com/) by Luigi Patruno
+* [Chip Huyen's Blog on ML](https://huyenchip.com/blog/)
+
+### Technology Stack
 Just some of the skills ML Engineering professionals use.
 One may not need to know all of them, but one technology from each area would make you well-rounded.
 
@@ -37,6 +50,7 @@ One may not need to know all of them, but one technology from each area would ma
 #### Workflow Management / Job Orchestration
 * Airflow
 * Luigi
+* Kubeflow Pipelines
 
 #### ML Frameworks
 * PyTorch
@@ -46,9 +60,11 @@ One may not need to know all of them, but one technology from each area would ma
 * MLFlow
 * Sagemaker
 
-#### MLOps
+#### Deployment
 * Docker
 * Kubernetes
+* KFServing (Kubeflow)
+* TF-serving (Tensorflow)
 
 #### Topics
 * Data Versioning, eg. DVC
