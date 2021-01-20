@@ -63,6 +63,8 @@ One may not need to know all of them, but one technology from each area would ma
 #### Deployment
 * Docker
 * Kubernetes
+* KFServing (Kubeflow)
+* TF-serving (Tensorflow)
 
 #### Topics
 * Data Versioning, eg. DVC
