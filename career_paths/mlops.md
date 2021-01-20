@@ -23,6 +23,10 @@ One may not need to know all of them, but one technology from each area would ma
 * GCP
 * Azure
 
+#### Serving
+* KFServing (Kubeflow)
+* TF-serving (Tensorflow)
+
 #### Data Versioning
 * DVC: Data Version Control
 
